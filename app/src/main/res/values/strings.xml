@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sms example</string>
+    <string name="title">Especially SMS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="labe1">Message to:</string>
+    <string name="pholder_msg">Your message</string>
+    <string name="btnSendSMS">Send</string>
+
+</resources>
